@@ -1,1 +1,1 @@
-https://github.com/aleko000/zakrivayuschiy-teg-ad.md
+https://github.com/aleko000/zakrivayuschiy-teg-ad
