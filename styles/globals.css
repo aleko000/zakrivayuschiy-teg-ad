@@ -10,7 +10,6 @@
 
 body {
   margin: 0;
-  overflow-x: hidden;
 }
 
 h1,
@@ -36,8 +35,6 @@ input {
   color: currentColor;
   font-family: inherit;
   font-size: inherit;
-  padding: 0;
-  box-sizing: border-box;
 }
 
 ul,
